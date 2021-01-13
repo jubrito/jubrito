@@ -1,4 +1,6 @@
 
+Hi, My name is Juliana but you can call me Ju. I'm 22 years old and I believe in technology as a tool for social transformation.
+
 🎓 Bachelor of Information Systems - University of São Paulo
 
 👩‍🎓 Approved on USP in 2nd place and among the top 10 students (rank in entrance group: 8th out of 132)
