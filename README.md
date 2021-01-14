@@ -1,5 +1,6 @@
 
-Hi, My name is Juliana but you can call me Ju. I'm 22 years old and I believe in technology as a tool for social transformation.
+Hi, My name is Juliana but you can call me Ju. 
+I'm 22 years old and I believe in technology as a tool for social transformation.
 
 🎓 Bachelor of Information Systems - University of São Paulo
 
@@ -11,12 +12,6 @@ Hi, My name is Juliana but you can call me Ju. I'm 22 years old and I believe in
 
 🌱 Back-end and Mobile enthusiast ;)
 
-📖 Former FAPESP Researcher 
-
-📑 5 articles published
-
-🥈 USP Diversity Award 
-
 🔥 Skills: Javascript ES6, jQuery, SASS, HTML5, CSS3, Typescript and Java
 
 🔨 Studies: React, Nodejs, and React Native
@@ -27,6 +22,14 @@ Hi, My name is Juliana but you can call me Ju. I'm 22 years old and I believe in
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jubrito@usp.br) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/juwitzke) 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511998959941) 
+
+<a href="/images/myw3schoolsimage.jpg" download="w3logo">
+  <img src="/images/myw3schoolsimage.jpg" alt="W3Schools">
+</a>
+<a href="/images/myw3schoolsimage.jpg" download>
+  <img src="/images/myw3schoolsimage.jpg" alt="W3Schools" width="104" height="142">
+</a>
+
 
 <!--
 **jubrito/jubrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
