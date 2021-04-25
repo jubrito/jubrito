@@ -1,6 +1,6 @@
 
 Hi, My name is Juliana but you can call me Ju. 
-I'm 22 years old and I believe in technology as a tool for social transformation.
+I'm 23 years old and I believe in technology as a tool for social transformation.
 
 🎓 Bachelor of Information Systems - University of São Paulo
 
