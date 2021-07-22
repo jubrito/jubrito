@@ -2,21 +2,21 @@
 Hi, My name is Juliana but you can call me Ju. 
 I'm 23 years old and I believe in technology as a tool for social transformation.
 
-🎓 Bachelor of Information Systems - University of São Paulo
+🎓  Bachelor of Information Systems - University of São Paulo
 
-👩‍🎓 Approved on USP in 2nd place and among the top 10 students (rank in entrance group: 8th out of 132)
+👩‍🎓  Approved on USP in 2nd place and among the top 10 students (rank in entrance group: 8th out of 132)
 
-👩‍💻 Founder, coordinator, designer and monitor of "Lab das Minas", a Science Club for Girls 
+👩‍💻  Founder, coordinator, designer and monitor of "Lab das Minas", a Science Club for Girls 
 
-💻 2 years of experience as a front-end developer
+💻  2 years of experience as a front-end developer
 
-🌱 Back-end and Mobile enthusiast ;)
+🌱  Back-end, Mobile, Design, Security and Accessibility enthusiast ;)
 
-🔥 Skills: Javascript ES6, jQuery, SASS, HTML5, CSS3, Typescript and Java
+🔥  Skills: Javascript ES6, jQuery, SASS, HTML5, CSS3, Typescript and Java
 
-🔨 Studies: React, Nodejs, and React Native
+🔨  Studies: React, Nodejs, and React Native
 
-🔧 Tools: Git, Photoshop, Vscode, and Linux
+🔧  Tools: Git, Photoshop, Vscode, and Linux
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jubrito/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jubrito@alumni.usp.br) 
