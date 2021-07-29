@@ -12,11 +12,11 @@ I'm 23 years old and I believe in technology as a tool for social transformation
 
 🌱  Back-end, Mobile, Design, Security and Accessibility enthusiast ;)
 
-🔥  Skills: Javascript ES6, jQuery, SASS, HTML5, CSS3, Typescript and Java
+🔥  Skills: Javascript ES6, jQuery, SASS, HTML5, CSS3, React, and Java
 
-🔨  Studies: React, Nodejs, and React Native
+🔨  Studies: Clean Code, Nodejs, React Native, and Typescript
 
-🔧  Tools: Git, Photoshop, Vscode, and Linux
+🔧  Tools: Git, Photoshop, and Vscode
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jubrito/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jubrito@alumni.usp.br) 
