@@ -1,6 +1,6 @@
 
 Hi, My name is Juliana but you can call me Ju. 
-I'm 23 years old and I believe in technology as a tool for social transformation.
+I'm 24 years old and I believe in technology as a tool for social transformation.
 
 🎓  Bachelor of Information Systems - University of São Paulo
 
@@ -12,7 +12,7 @@ I'm 23 years old and I believe in technology as a tool for social transformation
 
 🌱  Back-end, Mobile, Design, Security and Accessibility enthusiast ;)
 
-🔥  Skills: Javascript ES6, jQuery, SASS, HTML5, CSS3, React, and Java
+🔥  Skills: React, Node, Javascript ES6, jQuery, SASS, HTML5, CSS3, and Java
 
 🔨  Studies: Clean Code, Nodejs, React Native, and Typescript
 
