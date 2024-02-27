@@ -6,11 +6,11 @@ I'm 24 years old and I believe in technology as a tool for social transformation
 
 👩‍🎓  Approved on USP in 2nd place and among the top 10 students during all graduation (rank in entrance group: 8th out of 132)
 
-👩‍💻  Founder, coordinator, designer and monitor of "Lab das Minas", a Science Club for Girls 
+👩‍💻  Founder, coordinator, and monitor of the Science Club for Girls "Lab das Minas"
 
-💻  2 years of experience as a front-end developer
+💻  5 years of experience as a front-end developer
 
-🌱  Back-end, Mobile, Design, Security and Accessibility enthusiast ;)
+🌱  Back-end, Design, Security and Accessibility enthusiast ;)
 
 🔥  Skills: React, Node, Javascript ES6, jQuery, SASS, HTML5, CSS3, and Java
 
