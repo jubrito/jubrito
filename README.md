@@ -1,18 +1,18 @@
 
 Hi, My name is Juliana but you can call me Ju. 
-I'm 24 years old and I believe in technology as a tool for social transformation.
+I'm 27 years old and my goal is to find ways to use technology as a tool for social transformation
 
-🎓  Bachelor of Information Systems - University of São Paulo
+🎓  Bachelor of Information Systems - University of São Paulo (2017-2020)
 
 👩‍🎓  Approved on USP in 2nd place and among the top 10 students during all graduation (rank in entrance group: 8th out of 132)
 
-👩‍💻  Founder, coordinator, and monitor of the Science Club for Girls "Lab das Minas"
+👩‍💻  Founder, coordinator, and monitor of the Science Club for Girls "Lab das Minas" (Robotics & technology)
 
-💻  5 years of experience as a front-end developer
+💻  Front-end developer with 5 years of experience and a lot of passion for accessibility and quality
 
-🌱  Back-end, Design, Security and Accessibility enthusiast ;)
+🌱  Accessibility enthusiast ;)
 
-🔥  Skills: React, Node, Javascript ES6, jQuery, SASS, HTML5, CSS3, and Java
+🔥  Skills: React, Typescript, HTML, CSS, Javascript Es6. Other Skills: Node, jQuery, SASS, and Java
 
 🔨  Studies: Clean Code, Nodejs, React Native, and Typescript
 
