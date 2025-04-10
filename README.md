@@ -8,7 +8,7 @@ I'm 27 years old and my goal is to find ways to use technology as a tool for soc
 
 👩‍💻  Founder, coordinator, and monitor of the Science Club for Girls "Lab das Minas" (Robotics & technology)
 
-💻  Front-end developer with 5 years of experience and a lot of passion for accessibility and quality
+💻  Front-end developer with 6 years of experience and a lot of passion for accessibility and quality
 
 🌱  Accessibility enthusiast ;)
 
