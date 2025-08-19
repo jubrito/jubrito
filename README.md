@@ -6,7 +6,7 @@ I'm a 27-year-old senior software engineer, and my goal is to find ways to use t
 
 👩‍🎓  Approved on USP in 2nd place and among the top 10 students during all graduation (rank in entrance group: 8th out of 132)
 
-👩‍💻  Founder of USP Science Club for Girls "Lab das Minas" (Robotics & technology)
+👩‍💻  Founder of USP's research group "Lab das Minas" (Science, Robotics & Technology club for girls)
 
 💻  Front-end developer with 6 years of experience and a lot of passion for accessibility and quality
 
